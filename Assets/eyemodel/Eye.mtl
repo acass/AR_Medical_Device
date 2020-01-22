@@ -1,0 +1,102 @@
+# Blender MTL File: 'Eye.blend'
+# Material Count: 8
+
+newmtl eye
+Ns 70.588235
+Ka 1.000000 1.000000 1.000000
+Kd 0.949020 0.949020 0.949020
+Ks 1.296000 1.296000 1.296000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyediff1.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyediff1.bmp
+
+newmtl eye_bump_top
+Ns 50.980392
+Ka 0.722876 0.722876 0.722876
+Kd 0.988235 0.372549 0.039216
+Ks 0.891000 0.891000 0.891000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyediff1.bmp
+map_Bump /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyebump.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyediff1.bmp
+
+newmtl eye_mus
+Ns 50.980392
+Ka 0.722876 0.722876 0.722876
+Kd 0.411765 0.156863 0.156863
+Ks 0.891000 0.891000 0.891000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyediff1.bmp
+map_Bump /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyebump.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/eyediff1.bmp
+
+newmtl lacrimal
+Ns 64.705882
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 1.206000 1.206000 1.206000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+
+newmtl musk
+Ns 45.098039
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.468000 0.468000 0.468000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+map_Bump /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_b.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+
+newmtl sk_2
+Ns 9.803922
+Ka 0.671895 0.671895 0.671895
+Kd 0.588000 0.588000 0.588000
+Ks 0.216000 0.216000 0.216000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+map_Bump /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_b.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+
+newmtl skull_1
+Ns 37.254902
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.684000 0.684000 0.684000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+
+newmtl vein
+Ns 70.588235
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 1.224000 1.224000 1.224000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
+map_Ka /Users/Acass/Desktop/OBJ_Anatomy_eye_02.rar Folder/skull_d.bmp
